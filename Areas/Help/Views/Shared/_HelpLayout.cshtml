@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    Help layout that references _Layout to get the format for the webpage. 
+*@
+@{
+    Layout = "_Layout";
+}
+@section scripts{
+    <p>This is the scripts section of the _HelpLayout</p>
+    <p>About to render the RenderSectionAsync "SCRIPTS"</p>
+    @await RenderSectionAsync("Scripts", required: false)
+    <p>Finished rendering the "SCRIPTS" section</p>
+}
+
+<h1>This is from _HelpLayout!!!</h1>
+<p>_HelpLayout is calling RenderBody()</p>
+@RenderBody()
+<p>_HelpLayout finished calling RenderBody()</p>
+

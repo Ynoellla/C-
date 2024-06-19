@@ -1,0 +1,43 @@
+﻿@using CPT231_Assignment06_LeviNoell_Baba.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Magic
+@{
+    ViewData["Title"] = ViewBag.AddEdit;
+}
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="AddEdit" method="post">
+    <div>
+        <label asp-for="CardName">Card Name</label>
+        <input asp-for="CardName" />
+    </div>
+    <div>
+        <label asp-for="CardType">Card Type</label>
+        <input asp-for="CardType" />
+    </div>
+    <div>
+        <label asp-for="IsPermanent">Is Permanent?</label>
+        <input asp-for="IsPermanent" />
+    </div>
+    <div>
+        <label asp-for="ManaCost">Mana Cost</label>
+        <input asp-for="ManaCost" />
+    </div>
+    <div>
+        <label asp-for="Power">Power</label>
+        <input asp-for="Power" />
+    </div>
+    <div>
+        <label asp-for="Toughness">Toughness</label>
+        <input asp-for="Toughness" />
+    </div>
+    <div>
+        <label asp-for="CardColor">Card Color</label>
+        <input asp-for="CardColor" />
+    </div>
+    <input type="hidden" asp-for="MagicId" />
+    <button type="submit" class="btn btn-primary">@ViewBag.AddEdit</button>
+    <a asp-controller="Home" asp-action="Index" asp-area="" class="btn btn-primary">Cancel</a>
+</form>

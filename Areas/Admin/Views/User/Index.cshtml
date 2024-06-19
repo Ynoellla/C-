@@ -1,0 +1,34 @@
+﻿@model UserRoleModel
+
+<table>
+    <thead>
+        <tr>
+            <th>>UserName</th>
+            <th>Roles</th>
+        </tr>
+
+    </thead>
+    @foreach (User user in Model.Users)
+    {
+        <tr>
+            <td>@user.UserName</td>
+            <td>
+                @foreach(string role in user.RoleNames)
+                {
+                    <div>@role</div>
+                }
+            </td>
+            <td>
+                <form method="post" asp-action="AddToAdmin" asp-route-id="@user.UserName">
+                    <button type="submit" class="btn">Add to Admin</button>
+                </form>
+            </td>
+            <td>
+                <form method="post" asp-action="RemoveFromAdmin" asp-route-id="@user.UserName">
+                    <button type="submit" class="btn">Remove From Admin</button>
+                </form>
+            </td>
+        </tr>
+    }
+
+</table>
