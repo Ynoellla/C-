@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CPT231_Assignment06_LeviNoell_Baba
+build_property.RootNamespace = CPT231_Assignment06_LeviNoell_Baba
+build_property.ProjectDir = C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Admin/Views/Magic/AddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFnaWNcQWRkRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Admin/Views/Magic/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFnaWNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Help/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSGVscFxWaWV3c1xIZWxwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Help/Views/Help/Rule1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSGVscFxWaWV3c1xIZWxwXFJ1bGUxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Help/Views/Help/Rule2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSGVscFxWaWV3c1xIZWxwXFJ1bGUyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Help/Views/Help/Rule3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSGVscFxWaWV3c1xIZWxwXFJ1bGUzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Help/Views/Shared/_HelpLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSGVscFxWaWV3c1xTaGFyZWRcX0hlbHBMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Help/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSGVscFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Help/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSGVscFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Favorites/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Favorites/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-7frg3e01ry
+
+[C:/C\#/CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hauxa4h3pw

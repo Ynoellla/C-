@@ -1,0 +1,23 @@
+﻿@model MagicsViewModel
+@{
+    ViewData["Title"] = "Favorites";
+}
+
+<div class="row">
+    <div class="col-md-9">
+        <ul class="list-inline">
+            @foreach (Magic magic in Model.Magics)
+            {
+                <li>@magic.CardName</li><!-- Display the name of the magic card -->
+            }
+        </ul>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-md-9">
+        <a class="btn btn-primary" asp-action="Delete" asp-controller="Favorites">Clear Favorites</a>
+        <a class="btn btn-secondary" asp-action="Index" asp-controller="Home">Back to Home</a>
+    </div>
+</div>
+

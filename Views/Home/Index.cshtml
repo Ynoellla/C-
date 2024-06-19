@@ -1,0 +1,78 @@
+﻿@model List<Magic>
+@{
+    ViewData["Title"] = "Home Page";
+}
+@if (TempData.Keys.Contains("Message"))
+{
+    <h1 class="bg-@TempData["type"]">@TempData["Message"]</h1>//Tempdata retrieved and Message called up to be displayed as a header
+}
+
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    
+</style>
+
+<a asp-area="Admin" asp-controller="Magic" asp-action="Add">Add</a>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Card Name</th>
+            <th>Card Type</th>
+            <th>Is Permanent?</th>
+            <th>Mana Cost</th>
+            <th>Power</th>
+            <th>Toughness</th>
+            <th>Card Color</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Magic magic in Model)
+        {
+            <tr>
+                <td>@magic.CardName</td>
+                <td>@magic.CardType</td>
+                <td>@magic.IsPermanent</td>
+                <td>@magic.ManaCost.ToString()</td>
+                <td>@magic.Power.ToString()</td>
+                <td>@magic.Toughness.ToString()</td>
+                <td>@magic.CardColor</td>
+                <td><a asp-area="Admin" asp-controller="Magic" asp-action="Edit" asp-route-id="@magic.MagicId">Edit</a></td>
+                <td><a asp-area="Admin" asp-controller="Magic" asp-action="Delete" asp-route-id="@magic.MagicId">Delete</a></td>
+                <td>
+                    <form method="post" asp-controller="Favorites" asp-action="Add">
+                        <input type="hidden" name="magicId" value="@magic.MagicId" />
+                        <button type="submit">Favorite</button>
+                    </form>
+                </td>
+
+
+
+
+            </tr>
+        }
+    </tbody>
+</table>

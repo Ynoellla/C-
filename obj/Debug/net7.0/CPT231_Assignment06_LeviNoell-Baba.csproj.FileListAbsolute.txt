@@ -1,0 +1,158 @@
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\appsettings.Development.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\appsettings.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.staticwebassets.runtime.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.exe
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.deps.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.runtimeconfig.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.pdb
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Azure.Core.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Azure.Identity.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Humanizer.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.CodeDom.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.Memory.Data.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.csproj.AssemblyReference.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.AssemblyInfoInputs.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.AssemblyInfo.cs
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.csproj.CoreCompileInputs.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.RazorAssemblyInfo.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.RazorAssemblyInfo.cs
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\staticwebassets.build.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\staticwebassets.development.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\staticwebassets\msbuild.CPT231_Assignment06_LeviNoell-Baba.Microsoft.AspNetCore.StaticWebAssets.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\staticwebassets\msbuild.build.CPT231_Assignment06_LeviNoell-Baba.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CPT231_Assignment06_LeviNoell-Baba.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CPT231_Assignment06_LeviNoell-Baba.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\staticwebassets.pack.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\scopedcss\bundle\CPT231_Assignment06_LeviNoell-Baba.styles.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\scopedcss\projectbundle\CPT231_Assignment06_LeviNoell-Baba.bundle.scp.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\refint\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.pdb
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.genruntimeconfig.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\ref\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba\obj\Debug\net7.0\CPT231_A.15EBF085.Up2Date
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.staticwebassets.runtime.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.exe
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.deps.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.runtimeconfig.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.pdb
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.csproj.AssemblyReference.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.AssemblyInfoInputs.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.AssemblyInfo.cs
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.csproj.CoreCompileInputs.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.RazorAssemblyInfo.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.RazorAssemblyInfo.cs
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.CPT231_Assignment06_LeviNoell-Baba.Microsoft.AspNetCore.StaticWebAssets.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.CPT231_Assignment06_LeviNoell-Baba.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CPT231_Assignment06_LeviNoell-Baba.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CPT231_Assignment06_LeviNoell-Baba.props
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\CPT231_Assignment06_LeviNoell-Baba.styles.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\CPT231_Assignment06_LeviNoell-Baba.bundle.scp.css
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_A.15EBF085.Up2Date
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\refint\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.pdb
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\CPT231_Assignment06_LeviNoell-Baba.genruntimeconfig.cache
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\obj\Debug\net7.0\ref\CPT231_Assignment06_LeviNoell-Baba.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\C#\CPT231_Assignment06_LeviNoell-Baba - Copy (4) - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

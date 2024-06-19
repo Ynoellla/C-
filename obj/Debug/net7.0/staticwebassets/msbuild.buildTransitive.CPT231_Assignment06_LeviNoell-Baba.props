@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CPT231_Assignment06_LeviNoell-Baba.props" />
+</Project>
